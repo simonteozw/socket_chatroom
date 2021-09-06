@@ -2,6 +2,8 @@
 
 My first attempt at socket programming and distributed systems.
 
+Server will broadcast all messages to every connected cliennt.
+
 ## To run
 
 1. clone repo into local computer
